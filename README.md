@@ -25,5 +25,5 @@ Challenge links:
 * [challenge 9: connect the dots](http://www.pythonchallenge.com/pc/return/good.html)
 * [challenge 10: what are you looking at?](http://www.pythonchallenge.com/pc/return/bull.html)
 * [challenge 11: odd even](http://www.pythonchallenge.com/pc/return/5808.html)
-* [challenge 12: dealing evil](http://www.pythonchallenge.com/pc/return/evil.html) \[UN: huge PWD: FILE\]
+* [challenge 12: dealing evil](http://www.pythonchallenge.com/pc/return/evil.html) \[UN: huge PWD: file\]
 
